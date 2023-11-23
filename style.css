@@ -1,0 +1,28 @@
+.div1{
+ background-color: aquamarine;
+ padding: 30px;
+ border-radius: 20px;
+ margin-top: 50px;
+ box-shadow: 5px 5px 18px orange;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+
+#imagen{
+    width: 250px;
+    height: 250px;
+}
+
+.mini_result{
+  text-align: center;
+  color: blue;
+}
+
+#titulo{
+    font-family: 'Pixelify Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+color: red;
+}
+
